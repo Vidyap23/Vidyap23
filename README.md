@@ -50,10 +50,11 @@ Git · Postman · RabbitMQ · Celery
 
 ---
 
-## 📫 Let’s Connect!
+## 📫 Connect
 - 💼 **LinkedIn:** https://linkedin.com/in/vidya-prabhakar  
+- ✍️ **Medium:** https://medium.com/@vidyap23  
 - 📧 **Email:** vidyap23@gmail.com  
-- 💻 **GitHub:** https://github.com/Vidyap23  
+- 💻 **GitHub:** https://github.com/Vidyap23
 
----
+##
 

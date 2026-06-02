@@ -1,7 +1,7 @@
 # Hi, I'm Vidya Prabhakar! 👋  
 Software Engineer | Distributed Systems & Real-Time AI | MS ECE @ Carnegie Mellon University
 
-Welcome to my GitHub profile! I’m a backend and distributed systems–focused **Software Engineer** with experience building **production-grade, low-latency systems** across cloud, real-time streaming, and AI-powered platforms. I enjoy working close to the metal—networking, concurrency, performance—and shipping systems that operate reliably.
+Welcome to my GitHub profile! I’m a backend and distributed systems–focused **Software Engineer** with experience building **production-grade, low-latency systems** across cloud, real-time streaming, and AI-powered platforms. 
 
 ---
 
